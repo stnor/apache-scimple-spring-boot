@@ -10,3 +10,7 @@ To run, clone the project and run `mvn spring-boot:run`!
 There is support for JWT authentication, but it's turned off in the code.
 
 The endpoints are available under /scim/v2/ eg. /scim/v2/Users.
+
+## Acknowledgements
+* Code and dependencies from Apache Directory SCIMple https://github.com/apache/directory-scimple/tree/develop/scim-server
+* Inspiration from @bdemers https://github.com/bdemers/apache-scimple-spring-demo
