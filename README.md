@@ -5,7 +5,7 @@ This example is a self contained SCIM server using Apache SCIMple.
 
 All EJB 3.0 and CDI dependencies are removed and it's a pure Spring boot 2.0 application.
 
-To run, clone the project and run `mvn spring-boot:run`!
+To run, clone the project and run `mvn spring-boot:run`
 
 There is support for JWT authentication, but it's turned off in the code.
 
